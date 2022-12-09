@@ -1,7 +1,5 @@
-
-/* navbar */
-.navbar{
-    color: white;
-background-color: black ;
+.navlink{
+background-color: black !important;
+color: red !important;
 
 }
