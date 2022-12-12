@@ -1,5 +1,12 @@
-.navlink{
-background-color: black !important;
-color: red !important;
+/* a targets the text colour for the navbar*/
 
+a {
+    color: red !important;
+}
+
+.navbar-nav{
+
+position: relative;
+border:none;
+left: 85%;
 }
