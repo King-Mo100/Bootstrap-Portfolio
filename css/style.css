@@ -1,3 +1,5 @@
+
+
 /* a targets the text colour for the navbar*/
 
 a {
@@ -10,3 +12,33 @@ position: relative;
 border:none;
 left: 85%;
 }
+
+.jumbotron{
+background-image: url(/Bootstrap-Portfolio/images/AdobeStock_248855155.jpeg);background-size: cover;
+background-repeat: no-repeat;
+height: calc(100vh - 25px);
+display: flex;
+align-items: center;
+justify-content: center;
+
+
+}
+.jumboCopy{ background: none;
+    color: aliceblue;
+
+}
+.jumbotron img{
+width: 100vh;
+height: 100vh;
+border-radius: 25%;
+position: relative;
+left:70%;
+top: 20%;
+
+}
+
+.aboutMe{
+    box-sizing: border-box;
+
+}
+
